@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/Genius-gambit">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Genius-gambit&theme=dark&show_icons=true" />
+</a>
