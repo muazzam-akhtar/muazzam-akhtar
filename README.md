@@ -47,4 +47,4 @@
 
 <h1>CV</h1>
 
-[Muaz CV Game.pdf](https://github.com/Genius-gambit/Genius-gambit/files/9852958/Muaz.CV.Game.pdf)
+![Muaz CV Game.pdf](https://github.com/Genius-gambit/Genius-gambit/blob/main/Muaz%20CV%20Game.pdf)
