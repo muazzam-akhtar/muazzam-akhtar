@@ -44,3 +44,7 @@
   <li>Well-versed in MAC OS / Windows OS / Linux OS: 85%</li>
   </ol>
 </details>
+
+<h1>CV</h1>
+
+[Muaz CV Game.pdf](https://github.com/Genius-gambit/Genius-gambit/files/9852958/Muaz.CV.Game.pdf)
