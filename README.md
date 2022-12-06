@@ -46,6 +46,13 @@
   </ol>
 </details>
 
+<h1>Freelance Projects</h1>
+
+| S.No | Projects                                                      |            Language            |                            Description                             |
+| :----: | :----------------------------------------------------------- | :----------------------------: | :----------------------------------------------------------: |
+|   01   | [**Research Tree**](https://github.com/Genius-gambit/ResearchTree)     |               Unity Game Engine / C++                |  Create a Research Tree using Unity Game Engine to upgrade any level if it has enough resources.   |
+|   02   | [**Data Visualisation Project**](https://github.com/Genius-gambit/Freelance-Projects/tree/master/Data%20Visualisation)     |               Python                |  Read the document which is passed to the program and implement a data visualisation linking with every document UUID   |
+
 <h1>CV</h1>
 
 ![Muaz CV Game.pdf](https://github.com/Genius-gambit/Genius-gambit/blob/main/Muaz%20CV%20Game.pdf)
