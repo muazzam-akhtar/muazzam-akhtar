@@ -50,7 +50,7 @@
 
 | S.No | Projects                                                      |            Language            |                            Description                             |
 | :----: | :----------------------------------------------------------- | :----------------------------: | :----------------------------------------------------------: |
-|   01   | [**Research Tree**](https://github.com/Genius-gambit/ResearchTree)     |               Unity Game Engine / C++                |  Create a Research Tree using Unity Game Engine to upgrade any level if it has enough resources.   |
+|   01   | [**Research Tree**](https://github.com/Genius-gambit/Freelance-Projects/tree/master/ResearchTree)     |               Unity Game Engine / C++                |  Create a Research Tree using Unity Game Engine to upgrade any level if it has enough resources.   |
 |   02   | [**Data Visualisation Project**](https://github.com/Genius-gambit/Freelance-Projects/tree/master/Data%20Visualisation)     |               Python                |  Read the document which is passed to the program and implement a data visualisation linking with every document UUID   |
 
 <h1>CV</h1>
