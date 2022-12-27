@@ -51,8 +51,9 @@
 
 | S.No | Projects                                                      |            Language            |                            Description                             |
 | :----: | :----------------------------------------------------------- | :----------------------------: | :----------------------------------------------------------: |
-|   01   | [**Research Tree**](https://github.com/Genius-gambit/Freelance-Projects/tree/master/ResearchTree)     |               Unity Game Engine / C++                |  Create a Research Tree using Unity Game Engine to upgrade any level if it has enough resources.   |
+|   01   | [**Research Tree**](https://github.com/Genius-gambit/Freelance-Projects/tree/master/ResearchTree)     |               Unity Game Engine / C#                |  Create a Research Tree using Unity Game Engine to upgrade any level if it has enough resources.   |
 |   02   | [**Data Visualisation Project**](https://github.com/Genius-gambit/Freelance-Projects/tree/master/Data%20Visualisation)     |               Python                |  Read the document which is passed to the program and implement a data visualisation linking with every document UUID   |
+|   03   | [**Drift City**](https://github.com/Genius-gambit/Freelance-Projects/tree/master/Drift%20City)     |               Unity Game Engine / C#                |  Create a Racing Car Game with minimum requirements of giving a proper race track, implement external and interior design of the car.   |
 
 <h1>CV</h1>
 
