@@ -58,3 +58,10 @@
 <h1>CV</h1>
 
 ![Muaz CV Game.pdf](https://github.com/Genius-gambit/Genius-gambit/blob/main/Muaz%20CV%20Game.pdf)
+
+<h1>Ongoing Projects</h1>
+
+| S.No | Projects                                                      |            Language            |                            Description                             |
+| :----: | :----------------------------------------------------------- | :----------------------------: | :----------------------------------------------------------: |
+|   01   | [**ft_containers**](https://github.com/Genius-gambit/ft_containers)     |               C++                |  Create an Std Container.   |
+|   02   | [**webserv**](https://github.com/Genius-gambit/webserv)     |               C++                |  Create your own http server.   |
