@@ -64,4 +64,4 @@
 | S.No | Projects                                                      |            Language            |                            Description                             |
 | :----: | :----------------------------------------------------------- | :----------------------------: | :----------------------------------------------------------: |
 |   01   | [**ft_containers**](https://github.com/Genius-gambit/ft_containers)     |               C++                |  Create an Std Container.   |
-|   02   | [**webserv**](https://github.com/Genius-gambit/webserv)     |               C++                |  Create your own http server.   |
+|   02   | [**ft_irc**](https://github.com/Genius-gambit/ft_irc)     |               C++                |  Create your own Internet Relay Chat.   |
