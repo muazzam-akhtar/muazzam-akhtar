@@ -1,6 +1,7 @@
 <h1>About Me</h1>
 
-- A Unity VR Developer in an IT based solutions for the aviation industry advancing in the field of game development.
+<p>As a Unity VR Developer working in IT-based solutions for the aviation industry, I am leveraging my skills in game development to advance the field and create immersive and engaging experiences for aviation professionals and enthusiasts alike.</p></br>
+
 - Proficient in Unity and C# programming, with a focus on developing virtual reality experiences.
 - Skilled in creating immersive and interactive VR environments, including designing environments, user interfaces, and animations.
 - Experience in using VR hardware, such as Oculus Rift, to develop and test VR applications.
