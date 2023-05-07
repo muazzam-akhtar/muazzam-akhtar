@@ -1,3 +1,69 @@
+<h1>About Me</h1>
+
+- A Unity VR Developer in an IT based solutions for the aviation industry advancing in the field of game development.
+- Proficient in Unity and C# programming, with a focus on developing virtual reality experiences.
+- Skilled in creating immersive and interactive VR environments, including designing environments, user interfaces, and animations.
+- Experience in using VR hardware, such as Oculus Rift, to develop and test VR applications.
+- Knowledgeable in using 3D modeling and animation software, such as Blender, to create assets for VR environments.
+- Passionate about exploring new technologies and techniques to enhance VR experiences and staying up-to-date with the latest VR trends and developments.
+- Familiarity with game development concepts, such as game design, mechanics, and optimization.
+- Strong problem-solving and debugging skills to troubleshoot technical issues and optimize VR applications.
+- Ability to work collaboratively in a team environment, including communicating with artists, designers, and other developers.
+- Ability to create high-quality code with clean architecture, documentation, and best practices.
+
+<h1>Contact Me</h1>
+<p>
+  <a href="https://www.linkedin.com/in/muazzamakhtar/" rel="nofollow noreferrer">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"> LinkedIn
+  </a>
+    &emsp;&emsp;
+  <a href="h.awadh.code@gmail.com" rel="nofollow noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"> E-mail
+  </a>
+    &emsp;&emsp;
+</p>
+
+## Technologies
+
+<p>
+  <img align="left" src="https://img.shields.io/badge/unity-%2300599C.svg?style=for-the-badge&logo=unity&logoColor=white" />
+    &nbsp;
+  <img align="left" src="https://img.shields.io/badge/Unreal%20Engine-000000?style=for-the-badge&logo=UnrealEngine&logoColor=white" />
+    &nbsp;
+  <img align="left" src="https://img.shields.io/badge/c Sharp-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    &nbsp;
+  <img align="left" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    &nbsp;
+  <img align="left" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    &nbsp;
+  <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    &nbsp;
+  <img align="left" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    &nbsp;
+  <img align="left" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <br><br>
+  <img align="left" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" />
+    &nbsp;
+  <img align="left" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+    &nbsp;
+   <img align="left" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)" />
+    &nbsp;
+  <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+    <br><br>
+  <img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+    &nbsp;
+  <img align="left" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
+    &nbsp;
+  <img align="left" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    &nbsp;
+  <img align="left" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
+    &nbsp;
+  <img align="left" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" />
+    <br><br>
+  <img align="left" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+    &nbsp;
+</p><br/>
+
 <h1>Piscine Stats</h1>
 
 [![makhtar's 42 stats](https://badge42.vercel.app/api/v2/cl1luvk8j002409l9kkweym5e/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
