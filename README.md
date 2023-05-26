@@ -95,6 +95,7 @@
 |   05   | [**Net Practice**](https://github.com/Genius-gambit/42-cursus/tree/master/NetPractice) |               Json, HTML, CSS, Javascript                | [![makhtar's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl1luvk8j002409l9kkweym5e/project/2697357)](https://github.com/JaeSeoKim/badge42) |
 |   05   | [**Cub3D**](https://github.com/Genius-gambit/42-cursus/tree/master/cub3D) |               C                | [![makhtar's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl1luvk8j002409l9kkweym5e/project/2847354)](https://github.com/JaeSeoKim/badge42) |
 |   06   | [**Exam Rank 05**](https://github.com/Genius-gambit/42-cursus/tree/master/exam-rank-05) |               C++                | [![makhtar's 42 Exam Rank 05 Score](https://badge42.vercel.app/api/v2/cl1luvk8j002409l9kkweym5e/project/2909262)](https://github.com/JaeSeoKim/badge42) |
+|   06   | [**FT_IRC**](https://github.com/Genius-gambit/ft_irc) |               C++                | [![makhtar's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl1luvk8j002409l9kkweym5e/project/2909262)](https://github.com/JaeSeoKim/badge42) |
 
 <details>
   <br />
