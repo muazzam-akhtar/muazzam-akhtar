@@ -97,24 +97,6 @@
 |   06   | [**Exam Rank 05**](https://github.com/Genius-gambit/42-cursus/tree/master/exam-rank-05) |               C++                | [![makhtar's 42 Exam Rank 05 Score](https://badge42.vercel.app/api/v2/cl1luvk8j002409l9kkweym5e/project/2909262)](https://github.com/JaeSeoKim/badge42) |
 |   06   | [**ft_irc**](https://github.com/Genius-gambit/ft_irc) |               C++                | [![makhtar's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl1luvk8j002409l9kkweym5e/project/3093462)](https://github.com/JaeSeoKim/badge42) |
 
-<details>
-  <br />
-  <summary><b>👷 Skill list</b></summary>
-  <ol>
-  <li>Unity Game Engine: 80%</li>
-  <li>Autodesk 3Ds Max: 70%</li>
-  <li>Adobe Photoshop: 75%</li>
-  <li>Programming in C / C++ / C# languages: 90%</li>
-  <li>Python Programming: 65%</li>
-  <li>HTML & CSS: 60%</li>
-  <li>Pop SQL: 55%</li>
-  <li>Google Suites: 95%</li>
-  <li>Microsoft Suites: 95%</li>
-  <li>Bash / Terminal / Command Prompt / Powershell: 80%</li>
-  <li>Well-versed in MAC OS / Windows OS / Linux OS: 85%</li>
-  </ol>
-</details>
-
 <h1>Freelance Projects</h1>
 
 | S.No | Projects                                                      |            Language            |                            Description                             |
