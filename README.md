@@ -118,3 +118,11 @@
 |   01   | [**ft_containers**](https://github.com/Genius-gambit/ft_containers)     |               C++                |  Create an Std Container.   |
 |   02   | [**Sky Force**](https://github.com/Genius-gambit/SkyForceProject)     |               Unity                |  Create my own Sky Force game project   |
 |   03   | [**ft_transcendance**](https://github.com/Genius-gambit/Pong-Js)     |               HTML, Typescript, Javascript                |  Create a Game logic and Rendering pixels   |
+
+<h1>Extras</h1>
+
+| S.No | Projects                                                      |                            Description                             |
+| :----: | :----------------------------------------------------------- | :----------------------------------------------------------: |
+|   01   | [**Raycasting**](https://github.com/Genius-gambit/cub3D-Linux/tree/master/Raycasting%20Algorithm)     |  My Own Raycasting Algoritm tutorial for 3D Game   |
+|   02   | [**DeepStreamer Setup**](https://github.com/Genius-gambit/DeepStreamer-Installation)     |  DeepStreamer Setup tutorial for Object Detection Program in Python and C++   |
+|   03   | [**Pong**](https://github.com/Genius-gambit/Pong-Js)     |  Algorithm for Pong Game in Javascript / Typescript   |
