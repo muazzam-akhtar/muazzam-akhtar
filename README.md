@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"> LinkedIn
   </a>
     &emsp;&emsp;
-  <a href="h.awadh.code@gmail.com" rel="nofollow noreferrer">
+  <a href="muazzamakhtar@gmail.com" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"> E-mail
   </a>
     &emsp;&emsp;
