@@ -65,39 +65,32 @@
     &nbsp;
 </p><br/>
 
-<h1>Piscine Stats</h1>
-
-[![makhtar's 42 stats](https://badge42.vercel.app/api/v2/cl1luvk8j002409l9kkweym5e/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
-
-<h1>42 Cursus Stats</h1>
-
-[![makhtar's 42 stats](https://badge42.vercel.app/api/v2/cl1luvk8j002409l9kkweym5e/stats?cursusId=21&coalitionId=152)](https://github.com/JaeSeoKim/badge42)
-
 <h1>Foundation Level</h1>
 
 ##  :notebook_with_decorative_cover:(Sept 28 2021~)
 
 | Circle | Project                                                      |            Language            |                            Score                             |
 | :----: | :----------------------------------------------------------- | :----------------------------: | :----------------------------------------------------------: |
-|   01   | [**Libft**](https://github.com/Genius-gambit/42-cursus/tree/master/libft)     |               C                |  [![makhtar's 42 Libft Score](https://badge42.vercel.app/api/v2/cl1luvk8j002409l9kkweym5e/project/2365302)](https://github.com/JaeSeoKim/badge42)   |
-|   02   | [**get_next_line**](https://github.com/Genius-gambit/42-cursus/tree/master/get_next_line) |               C                | [![makhtar's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl1luvk8j002409l9kkweym5e/project/2381833)](https://github.com/JaeSeoKim/badge42) |
-|   02   | [**ft_printf**](https://github.com/Genius-gambit/42-cursus/tree/master/ft_printf) |               C                | [![makhtar's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl1luvk8j002409l9kkweym5e/project/2398868)](https://github.com/JaeSeoKim/badge42) |
-|   02   | [**Born2beroot**](https://github.com/Genius-gambit/42-cursus/tree/master/B2BR) |               C                | [![makhtar's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl1luvk8j002409l9kkweym5e/project/2388579)](https://github.com/JaeSeoKim/badge42) |
-|   03   | [**Exam Rank 02**](https://github.com/Genius-gambit/42-cursus/tree/master/exam-rank-02) |               C                | [![makhtar's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl1luvk8j002409l9kkweym5e/project/2403358)](https://github.com/JaeSeoKim/badge42) |
-|   03   | [**Minitalk**](https://github.com/Genius-gambit/42-cursus/tree/master/minitalk) |               C                | [![makhtar's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl1luvk8j002409l9kkweym5e/project/2445682)](https://github.com/JaeSeoKim/badge42) |
-|   03   | [**So_Long**](https://github.com/Genius-gambit/42-cursus/tree/master/so_long) |               C                | [![makhtar's 42 so_long Score](https://badge42.vercel.app/api/v2/cl1luvk8j002409l9kkweym5e/project/2442188)](https://github.com/JaeSeoKim/badge42) |
-|   03   | [**Push Swap**](https://github.com/Genius-gambit/42-cursus/tree/master/push_swap) |               C                | [![makhtar's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl1luvk8j002409l9kkweym5e/project/2468315)](https://github.com/JaeSeoKim/badge42) |
-|   04   | [**Philosophers**](https://github.com/Genius-gambit/42-cursus/tree/master/philosophers) |               C                | [![makhtar's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl1luvk8j002409l9kkweym5e/project/2522597)](https://github.com/JaeSeoKim/badge42) |
-|   04   | [**Minishell**](https://github.com/Genius-gambit/42-cursus/tree/master/minishell) |               C                | [![makhtar's 42 minishell Score](https://badge42.vercel.app/api/v2/cl1luvk8j002409l9kkweym5e/project/2598482)](https://github.com/JaeSeoKim/badge42) |
-|   04   | [**Exam Rank 03**](https://github.com/Genius-gambit/42-cursus/tree/master/exam-rank-03) |               C                | [![makhtar's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl1luvk8j002409l9kkweym5e/project/2469430)](https://github.com/JaeSeoKim/badge42) |
-|   05   | [**Exam Rank 04**](https://github.com/Genius-gambit/42-cursus/tree/master/exam-rank-04) |               C                | [![makhtar's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl1luvk8j002409l9kkweym5e/project/2606933)](https://github.com/JaeSeoKim/badge42) |
-|   05   | [**CPP Modules**](https://github.com/Genius-gambit/42-cursus/tree/master/CPP%20Modules) |               C++                | [![makhtar's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl1luvk8j002409l9kkweym5e/project/2609460)](https://github.com/JaeSeoKim/badge42) |
-|   05   | [**Net Practice**](https://github.com/Genius-gambit/42-cursus/tree/master/NetPractice) |               TCP/IP                | [![makhtar's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl1luvk8j002409l9kkweym5e/project/2697357)](https://github.com/JaeSeoKim/badge42) |
-|   05   | [**Cub3D**](https://github.com/Genius-gambit/42-cursus/tree/master/cub3D) |               C                | [![makhtar's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl1luvk8j002409l9kkweym5e/project/2847354)](https://github.com/JaeSeoKim/badge42) |
-|   06   | [**Exam Rank 05**](https://github.com/Genius-gambit/42-cursus/tree/master/exam-rank-05) |               C++                | [![makhtar's 42 Exam Rank 05 Score](https://badge42.vercel.app/api/v2/cl1luvk8j002409l9kkweym5e/project/2909262)](https://github.com/JaeSeoKim/badge42) |
-|   06   | [**ft_irc**](https://github.com/Genius-gambit/42-cursus/tree/master/ft_irc) |               C++                | [![makhtar's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl1luvk8j002409l9kkweym5e/project/3093462)](https://github.com/JaeSeoKim/badge42) |
-|   06   | [**Inception**](https://github.com/Genius-gambit/42-cursus/tree/master/Inception) |               Docker/Dockerfiles                | [![makhtar's 42 Inception Score](https://badge42.vercel.app/api/v2/cl1luvk8j002409l9kkweym5e/project/2909262)](https://github.com/JaeSeoKim/badge42) |
-|   07   | [**Exam Rank 06**](https://github.com/Genius-gambit/42-cursus/tree/master/exam-rank-06) |               C                | [![makhtar's 42 Exam Rank 06 Score](https://badge42.vercel.app/api/v2/cl1luvk8j002409l9kkweym5e/project/2909262)](https://github.com/JaeSeoKim/badge42) |
+|   01   | [**Libft**](https://github.com/Genius-gambit/42-cursus/tree/master/libft)     |               C                |  ![libft grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42)   |
+|   02   | [**get_next_line**](https://github.com/Genius-gambit/42-cursus/tree/master/get_next_line) |               C                | ![gnl grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42) |
+|   02   | [**ft_printf**](https://github.com/Genius-gambit/42-cursus/tree/master/ft_printf) |               C                | ![ft_printf grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42) |
+|   02   | [**Born2beroot**](https://github.com/Genius-gambit/42-cursus/tree/master/B2BR) |               C                | ![B2BR grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42) |
+|   03   | [**Exam Rank 02**](https://github.com/Genius-gambit/42-cursus/tree/master/exam-rank-02) |               C                | ![rank02 grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42) |
+|   03   | [**Minitalk**](https://github.com/Genius-gambit/42-cursus/tree/master/minitalk) |               C                | ![minitalk grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42) |
+|   03   | [**So_Long**](https://github.com/Genius-gambit/42-cursus/tree/master/so_long) |               C                | ![so_long grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42) |
+|   03   | [**Push Swap**](https://github.com/Genius-gambit/42-cursus/tree/master/push_swap) |               C                | ![push_swap grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42) |
+|   04   | [**Philosophers**](https://github.com/Genius-gambit/42-cursus/tree/master/philosophers) |               C                | ![philo grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42) |
+|   04   | [**Minishell**](https://github.com/Genius-gambit/42-cursus/tree/master/minishell) |               C                | ![minishell grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42) |
+|   04   | [**Exam Rank 03**](https://github.com/Genius-gambit/42-cursus/tree/master/exam-rank-03) |               C                | ![rank03 grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42) |
+|   05   | [**Exam Rank 04**](https://github.com/Genius-gambit/42-cursus/tree/master/exam-rank-04) |               C                | ![rank04 grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42) |
+|   05   | [**CPP Modules**](https://github.com/Genius-gambit/42-cursus/tree/master/CPP%20Modules) |               C++                | ![CPP grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42) |
+|   05   | [**Net Practice**](https://github.com/Genius-gambit/42-cursus/tree/master/NetPractice) |               TCP/IP                | ![Net_practice grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42) |
+|   05   | [**Cub3D**](https://github.com/Genius-gambit/42-cursus/tree/master/cub3D) |               C                | ![cub3D grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42) |
+|   06   | [**Exam Rank 05**](https://github.com/Genius-gambit/42-cursus/tree/master/exam-rank-05) |               C++                | ![rank05 grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42) |
+|   06   | [**ft_irc**](https://github.com/Genius-gambit/42-cursus/tree/master/ft_irc) |               C++                | ![ft_irc grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42) |
+|   06   | [**Inception**](https://github.com/Genius-gambit/42-cursus/tree/master/Inception) |               Docker/Dockerfiles                | ![inception grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42) |
+|   07   | [**Exam Rank 06**](https://github.com/Genius-gambit/42-cursus/tree/master/exam-rank-06) |               C                | ![rank06 grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42) |
+|   07   | [**ft_transcendence**](https://github.com/Genius-gambit/42-cursus/tree/master/ft_transcendence) |               Typescript, Javascript, HTML, CSS, Vue, Dockerfiles                | ![ft_transcendence grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42) |
 
 <h1>Freelance Projects</h1>
 
