@@ -78,7 +78,7 @@
 
 <h1>Foundation Level</h1>
 
-##  :notebook_with_decorative_cover:(Sept 28 2021~)
+##  :notebook_with_decorative_cover:(Sept 28 2021 - 23 Nov 2023)
 
 | Circle | Project                                                      |            Language            |                            Score                             |
 | :----: | :----------------------------------------------------------- | :----------------------------: | :----------------------------------------------------------: |
