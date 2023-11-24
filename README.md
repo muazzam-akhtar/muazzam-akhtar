@@ -67,14 +67,14 @@
 
 <h1>Game Development Projects</h1>
 
-| S.No | Projects                                                      |                            Description                             |
-| :----: | :----------------------------------------------------------- | :----------------------------------------------------------: |
-|   01   | [**Drift City**](https://github.com/Genius-gambit/Freelance-Projects/tree/master/Drift%20City)     |               Unity Game Engine / C#                |  Create a Racing Car Game with minimum requirements of giving a proper race track, implement external and interior design of the car.   |
-|   02   | [**Raycasting**](https://github.com/Genius-gambit/cub3D-Linux/tree/master/Raycasting%20Algorithm)     |  My Own Raycasting Algoritm tutorial for 3D Game   |
-|   03   | [**Pong**](https://github.com/Genius-gambit/Pong-Js)     |  Algorithm for Pong Game in Javascript / Typescript   |
-|   04   | [**DeepStreamer Setup**](https://github.com/Genius-gambit/DeepStreamer-Installation)     |  DeepStreamer Setup tutorial for Object Detection Program in Python and C++   |
-|   05   | [**Cub3D**](https://github.com/Genius-gambit/42-cursus/tree/master/cub3D) |  3D Game in C language   |
-|   06   | [**So_Long**](https://github.com/Genius-gambit/42-cursus/tree/master/so_long) | 2D Game in C language   |
+| S.No | Projects                                                      |                            Languages                             |                            Description                             |
+| :----: | :----------------------------------------------------------- | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|   01   | [**Drift City**](https://github.com/Genius-gambit/Freelance-Projects/tree/master/Drift%20City)     |               Unity Game Engine / C#                |  Created a Racing Car Game with minimum requirements of giving a proper race track, implement external and interior design of the car.   |
+|   02   | [**Raycasting**](https://github.com/Genius-gambit/cub3D-Linux/tree/master/Raycasting%20Algorithm)     |  C / C++   | My Own Raycasting Algorithm for 3D game
+|   03   | [**Pong**](https://github.com/Genius-gambit/Pong-Js)     |  Javascript / Typescript   | Created a Pong Game inspired from the original game Pong in 1972
+|   04   | [**DeepStreamer Setup**](https://github.com/Genius-gambit/DeepStreamer-Installation)     |  Python / C++   | DeepStreamer Setup tutorial for Object Detection Program
+|   05   | [**Cub3D**](https://github.com/Genius-gambit/42-cursus/tree/master/cub3D) |  C   | 3D Game in C language
+|   06   | [**So_Long**](https://github.com/Genius-gambit/42-cursus/tree/master/so_long) | C   | 2D Game in C language
 
 <h1>Foundation Level</h1>
 
@@ -101,7 +101,7 @@
 |   06   | [**ft_irc**](https://github.com/Genius-gambit/42-cursus/tree/master/ft_irc) |               C++                | ![ft_irc grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42) |
 |   06   | [**Inception**](https://github.com/Genius-gambit/42-cursus/tree/master/Inception) |               Docker/Dockerfiles                | ![inception grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42) |
 |   07   | [**Exam Rank 06**](https://github.com/Genius-gambit/42-cursus/tree/master/exam-rank-06) |               C                | ![rank06 grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42) |
-|   07   | [**ft_transcendence**](https://github.com/Genius-gambit/42-cursus/tree/master/ft_transcendence) |               Typescript, Javascript, HTML, CSS, Vue, Dockerfiles                | ![ft_transcendence grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42) |
+|   07   | [**ft_transcendence**](https://github.com/Genius-gambit/42-cursus/tree/master/ft_transcendence) |               Typescript, Javascript, HTML,</br> CSS, Vue, Dockerfiles                | ![ft_transcendence grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42) |
 
 <h1>Freelance Projects</h1>
 
