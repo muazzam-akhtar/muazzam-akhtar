@@ -101,7 +101,7 @@
 |   06   | [**ft_irc**](https://github.com/Genius-gambit/42-cursus/tree/master/ft_irc) |               C++                | ![ft_irc grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42) |
 |   06   | [**Inception**](https://github.com/Genius-gambit/42-cursus/tree/master/Inception) |               Docker/Dockerfiles                | ![inception grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42) |
 |   07   | [**Exam Rank 06**](https://github.com/Genius-gambit/42-cursus/tree/master/exam-rank-06) |               C                | ![rank06 grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42) |
-|   07   | [**ft_transcendence**](https://github.com/Genius-gambit/42-cursus/tree/master/ft_transcendence) |               Typescript, Javascript, HTML,</br> CSS, Vue, Dockerfiles                | ![ft_transcendence grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42) |
+|   07   | [**ft_transcendence**](https://github.com/Genius-gambit/42-cursus/tree/master/ft_transcendence) |               Typescript, Javascript, HTML,</br> CSS, Vue, Dockerfile                | ![ft_transcendence grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42) |
 
 <h1>Freelance Projects</h1>
 
