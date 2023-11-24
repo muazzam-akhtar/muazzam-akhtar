@@ -65,6 +65,17 @@
     &nbsp;
 </p><br/>
 
+<h1>Game Development Projects</h1>
+
+| S.No | Projects                                                      |                            Description                             |
+| :----: | :----------------------------------------------------------- | :----------------------------------------------------------: |
+|   01   | [**Drift City**](https://github.com/Genius-gambit/Freelance-Projects/tree/master/Drift%20City)     |               Unity Game Engine / C#                |  Create a Racing Car Game with minimum requirements of giving a proper race track, implement external and interior design of the car.   |
+|   02   | [**Raycasting**](https://github.com/Genius-gambit/cub3D-Linux/tree/master/Raycasting%20Algorithm)     |  My Own Raycasting Algoritm tutorial for 3D Game   |
+|   03   | [**Pong**](https://github.com/Genius-gambit/Pong-Js)     |  Algorithm for Pong Game in Javascript / Typescript   |
+|   04   | [**DeepStreamer Setup**](https://github.com/Genius-gambit/DeepStreamer-Installation)     |  DeepStreamer Setup tutorial for Object Detection Program in Python and C++   |
+|   05   | [**Cub3D**](https://github.com/Genius-gambit/42-cursus/tree/master/cub3D) |  3D Game in C language   |
+|   06   | [**So_Long**](https://github.com/Genius-gambit/42-cursus/tree/master/so_long) | 2D Game in C language   |
+
 <h1>Foundation Level</h1>
 
 ##  :notebook_with_decorative_cover:(Sept 28 2021~)
@@ -97,16 +108,8 @@
 | S.No | Projects                                                      |            Language            |                            Description                             |
 | :----: | :----------------------------------------------------------- | :----------------------------: | :----------------------------------------------------------: |
 |   01   | [**Research Tree**](https://github.com/Genius-gambit/Freelance-Projects/tree/master/ResearchTree)     |               Unity Game Engine / C#                |  Create a Research Tree using Unity Game Engine to upgrade any level if it has enough resources.   |
-|   02   | [**Data Visualisation Project**](https://github.com/Genius-gambit/Freelance-Projects/tree/master/Data%20Visualisation)     |               Python                |  Read the document which is passed to the program and implement a data visualisation linking with every document UUID   |
+|   02   | [**Data Visualisation Project**](https://github.com/Genius-gambit/Freelance-Projects/tree/master/Data%20Visualisation)     |               Python                |  Reads the document which is passed to the program and implement a data visualisation linking with every document UUID   |
 |   03   | [**Drift City**](https://github.com/Genius-gambit/Freelance-Projects/tree/master/Drift%20City)     |               Unity Game Engine / C#                |  Create a Racing Car Game with minimum requirements of giving a proper race track, implement external and interior design of the car.   |
-
-<h1>Extras</h1>
-
-| S.No | Projects                                                      |                            Description                             |
-| :----: | :----------------------------------------------------------- | :----------------------------------------------------------: |
-|   01   | [**Raycasting**](https://github.com/Genius-gambit/cub3D-Linux/tree/master/Raycasting%20Algorithm)     |  My Own Raycasting Algoritm tutorial for 3D Game   |
-|   02   | [**DeepStreamer Setup**](https://github.com/Genius-gambit/DeepStreamer-Installation)     |  DeepStreamer Setup tutorial for Object Detection Program in Python and C++   |
-|   03   | [**Pong**](https://github.com/Genius-gambit/Pong-Js)     |  Algorithm for Pong Game in Javascript / Typescript   |
 
 <h1>CV</h1>
 
@@ -117,5 +120,4 @@
 | S.No | Projects                                                      |            Language            |                            Description                             |
 | :----: | :----------------------------------------------------------- | :----------------------------: | :----------------------------------------------------------: |
 |   01   | [**ft_containers**](https://github.com/Genius-gambit/ft_containers)     |               C++                |  Create an Std Container.   |
-|   02   | [**Sky Force**](https://github.com/Genius-gambit/SkyForceProject)     |               Unity                |  Create my own Sky Force game project   |
-|   03   | [**ft_transcendance**](https://github.com/Genius-gambit/Pong-Js)     |               HTML, Typescript, Javascript                |  Create a Game logic and Rendering pixels   |
+|   02   | [**Sky Force**](https://github.com/Genius-gambit/SkyForceProject)     |               Unity                |  Creating one of the popular games - Sky Force   |
