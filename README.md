@@ -113,8 +113,8 @@
 |   03   | [**Drift City**](https://github.com/Genius-gambit/Freelance-Projects/tree/master/Drift%20City)     |               ![Unity](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white)                |  Create a Racing Car Game with minimum requirements of giving a proper race track, implement external and interior design of the car.   |
 
 <h1>CV</h1>
+<img src="https://github.com/Genius-gambit/Genius-gambit/assets/81755254/9a6b2fc0-5ab2-4633-b1fe-385a46fa0c9d" />
 
-![Muaz CV Game.pdf](https://github.com/Genius-gambit/Genius-gambit/blob/main/Muaz%20CV%20Game.pdf)
 
 <h1>Ongoing Projects</h1>
 
