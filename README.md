@@ -61,8 +61,6 @@
     &nbsp;
   <img align="left" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" />
     <br><br>
-  <img align="left" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-    &nbsp;
 </p><br/>
 
 <h1>🎮 Game Development</h1>
