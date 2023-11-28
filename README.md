@@ -80,7 +80,7 @@
 # 42 Profile
 [![makhtar's 42 stats](https://badge.mediaplus.ma/greenbinary/makhtar?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-<h1>Foundation Level</h1>
+<h1>42 Cursus Projects</h1>
 
 ##  :notebook_with_decorative_cover:(Sept 28 2021 - Nov 23 2023)
 
