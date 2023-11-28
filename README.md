@@ -77,6 +77,9 @@
 |   06   | [**Cub3D**](https://github.com/Genius-gambit/42-cursus/tree/master/cub3D) |  ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)   | 3D Game in C language
 |   07   | [**So_Long**](https://github.com/Genius-gambit/42-cursus/tree/master/so_long) | ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)   | 2D Game in C language
 
+# 42 Profile
+[![makhtar's 42 stats](https://badge.mediaplus.ma/greenbinary/makhtar?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 <h1>Foundation Level</h1>
 
 ##  :notebook_with_decorative_cover:(Sept 28 2021 - Nov 23 2023)
