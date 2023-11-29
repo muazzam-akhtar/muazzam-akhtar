@@ -25,43 +25,26 @@
 </p>
 
 ## Technologies
-
-<p>
-  <img align="left" src="https://img.shields.io/badge/unity-%2300599C.svg?style=for-the-badge&logo=unity&logoColor=white" />
-    &nbsp;
-  <img align="left" src="https://img.shields.io/badge/Unreal%20Engine-000000?style=for-the-badge&logo=UnrealEngine&logoColor=white" />
-    &nbsp;
-  <img align="left" src="https://img.shields.io/badge/c Sharp-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    &nbsp;
-  <img align="left" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    &nbsp;
-  <img align="left" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    &nbsp;
-  <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-    &nbsp;
-  <img align="left" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-    &nbsp;
-  <img align="left" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <div align="center">
+    <code><img height="30" src="https://img.shields.io/badge/unity-%2300599C.svg?style=for-the-badge&logo=unity&logoColor=white"></code>
+    <code><img height="30" src="https://img.shields.io/badge/Unreal%20Engine-000000?style=for-the-badge&logo=UnrealEngine&logoColor=white"></code>
+    <code><img height="30" src="https://img.shields.io/badge/c Sharp-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
+    <code><img height="30" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
+    <code><img height="30" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
+    <code><img height="30" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
+    <code><img height="30" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></code>
     <br><br>
-  <img align="left" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" />
-    &nbsp;
-  <img align="left" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-    &nbsp;
-   <img align="left" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)" />
-    &nbsp;
-  <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+    <code><img height="30" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></code>
+    <code><img height="30" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></code>
+    <code><img height="30" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></code>
+    <code><img height="30" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=html&logoColor=white"></code>
     <br><br>
-  <img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-    &nbsp;
-  <img align="left" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
-    &nbsp;
-  <img align="left" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    &nbsp;
-  <img align="left" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
-    &nbsp;
-  <img align="left" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" />
-    <br><br>
-</p><br/>
+    <code><img height="30" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"></code>
+    <code><img height="30" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></code>
+    <code><img height="30" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></code>
+    <code><img height="30" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"></code>
+    <code><img height="30" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></code>
+</div><br/>
 
 <h1>🎮 Game Development</h1>
 
