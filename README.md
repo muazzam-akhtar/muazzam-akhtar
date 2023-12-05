@@ -26,24 +26,17 @@
 
 ## Technologies
   <div align="center">
-    <code><img height="30" src="https://img.shields.io/badge/unity-%2300599C.svg?style=for-the-badge&logo=unity&logoColor=white"></code>
-    <code><img height="30" src="https://img.shields.io/badge/Unreal%20Engine-000000?style=for-the-badge&logo=UnrealEngine&logoColor=white"></code>
-    <code><img height="30" src="https://img.shields.io/badge/c Sharp-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
-    <code><img height="30" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
-    <code><img height="30" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
-    <code><img height="30" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
-    <code><img height="30" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></code>
-    <br><br>
-    <code><img height="30" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></code>
-    <code><img height="30" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></code>
-    <code><img height="30" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></code>
-    <code><img height="30" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=html&logoColor=white"></code>
-    <br><br>
-    <code><img height="30" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"></code>
-    <code><img height="30" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></code>
-    <code><img height="30" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></code>
-    <code><img height="30" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"></code>
-    <code><img height="30" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></code>
+    <code><img height="70" src="https://github.com/Genius-gambit/Genius-gambit/assets/81755254/1a5e5f32-58b1-4652-a608-6644bd8eed2d"></code>
+    <code><img height="70" src="https://github.com/Genius-gambit/Genius-gambit/assets/81755254/5d3e5913-23e3-4798-8246-7384f1733677"></code>
+    <code><img height="70" src="https://github.com/Genius-gambit/Genius-gambit/assets/81755254/6107511b-8b24-4d0f-a739-a41a4e8f78c3"></code>
+    <code><img height="70" src="https://github.com/Genius-gambit/Genius-gambit/assets/81755254/b0a3d994-3ff5-4b70-abdb-cd25d069174b"></code>
+    <code><img height="70" src="https://github.com/Genius-gambit/Genius-gambit/assets/81755254/4a9615ce-a3f3-473b-8003-8ce6e671f503"></code>
+    <code><img height="70" src="https://github.com/Genius-gambit/Genius-gambit/assets/81755254/117f258c-10af-4331-a8ac-4a5088ca8724"></code>
+    <code><img height="70" src="https://github.com/Genius-gambit/Genius-gambit/assets/81755254/6fd79145-3058-4ac0-a2b6-4dc93d705ce0"></code>
+    <code><img height="70" src="https://github.com/Genius-gambit/Genius-gambit/assets/81755254/f0b019ef-e2ab-4613-80fd-4b5347af235b"></code>
+    <code><img height="70" src="https://github.com/Genius-gambit/Genius-gambit/assets/81755254/1b774f6c-b8a3-4152-b7f4-642fd4cbf947"></code>
+    <code><img height="70" src="https://github.com/Genius-gambit/Genius-gambit/assets/81755254/89a1236c-4a5d-49c6-880b-0399c7b09b56"></code>
+    <code><img height="70" src="https://github.com/Genius-gambit/Genius-gambit/assets/81755254/91bdcf83-b72d-4222-8a10-c4869c21a1e3"></code>
 </div><br/>
 
 <h1>🎮 Game Development</h1>
