@@ -26,8 +26,8 @@
 
 ## Technologies
   <div align="center">
-    <code><img height="60" src="https://github.com/Genius-gambit/Genius-gambit/assets/81755254/1a5e5f32-58b1-4652-a608-6644bd8eed2d"></code>
-    <code><img height="60" src="https://github.com/Genius-gambit/Genius-gambit/assets/81755254/5d3e5913-23e3-4798-8246-7384f1733677"></code>
+    <code><img height="60" src="https://github.com/Genius-gambit/Genius-gambit/assets/81755254/fd524961-7145-402b-8952-17226e776166"></code>
+    <code><img height="60" src="https://github.com/Genius-gambit/Genius-gambit/assets/81755254/92ac8045-bd48-4e72-aa03-34b755c1a7a5"></code>
     <code><img height="60" src="https://github.com/Genius-gambit/Genius-gambit/assets/81755254/6107511b-8b24-4d0f-a739-a41a4e8f78c3"></code>
     <code><img height="60" src="https://github.com/Genius-gambit/Genius-gambit/assets/81755254/b0a3d994-3ff5-4b70-abdb-cd25d069174b"></code>
     <code><img height="60" src="https://github.com/Genius-gambit/Genius-gambit/assets/81755254/4a9615ce-a3f3-473b-8003-8ce6e671f503"></code>
