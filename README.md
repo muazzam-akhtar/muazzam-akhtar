@@ -97,5 +97,5 @@
 
 | S.No | Projects                                                      |            Language            |                            Description                             |
 | :----: | :----------------------------------------------------------- | :----------------------------: | :----------------------------------------------------------: |
-|   01   | [**ft_containers**](https://github.com/Genius-gambit/ft_containers)     |               ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)                |  Create an Std Container.   |
+|   01   | [**ft_Linear_Regression**](https://github.com/Genius-gambit/ft_containers)     |               ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)                |  Create a Linear Regression on the given database.   |
 |   02   | [**Sky Force**](https://github.com/Genius-gambit/SkyForceProject)     |               ![Unity](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white)                |  Creating one of the popular games - Sky Force   |
