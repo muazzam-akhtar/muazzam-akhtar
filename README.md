@@ -97,6 +97,6 @@
 
 | S.No | Projects                                                      |            Language            |                            Description                             |
 | :----: | :----------------------------------------------------------- | :----------------------------: | :----------------------------------------------------------: |
-|   01   | [**Python Piscine**](https://github.com/Genius-gambit/PythonPiscine)     |               ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)                |  A series of projects in Python Programmin   |
+|   01   | [**Python Piscine**](https://github.com/Genius-gambit/PythonPiscine)     |               ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)                |  A series of projects in Python Programming   |
 |   02   | [**Sky Force**](https://github.com/Genius-gambit/SkyForceProject)     |               ![Unity](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white)                |  Creating one of the popular games - Sky Force   |
 |   03   | [**ft_ls**](https://github.com/Genius-gambit/ft_ls)     |               ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)                |  Recreating the command ls with flags in terminal using C language.   |
