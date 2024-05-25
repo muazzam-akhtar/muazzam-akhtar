@@ -93,13 +93,9 @@
 |   02   | [**Data Visualisation Project**](https://github.com/Genius-gambit/Freelance-Projects/tree/master/Data%20Visualisation)     |               ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)                |  Reads the document which is passed to the program and implement a data visualisation linking with every document UUID   |
 |   03   | [**Drift City**](https://github.com/Genius-gambit/Freelance-Projects/tree/master/Drift%20City)     |               ![Unity](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white)                |  Create a Racing Car Game with minimum requirements of giving a proper race track, implement external and interior design of the car.   |
 
-<h1>CV</h1>
-<img src="https://github.com/Genius-gambit/Genius-gambit/assets/81755254/9a6b2fc0-5ab2-4633-b1fe-385a46fa0c9d" />
-
 
 <h1>Ongoing Projects</h1>
 
 | S.No | Projects                                                      |            Language            |                            Description                             |
 | :----: | :----------------------------------------------------------- | :----------------------------: | :----------------------------------------------------------: |
-|   01   | [**Python Piscine**](https://github.com/Genius-gambit/PythonPiscine)     |               ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)                |  A series of projects in Python Programming   |
-|   03   | [**ft_ls**](https://github.com/Genius-gambit/ft_ls)     |               ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)                |  Recreating the command ls with flags in terminal using C language.   |
+|   01   | [**ft_ls**](https://github.com/Genius-gambit/ft_ls)     |               ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)                |  Recreating the command ls with flags in terminal using C language.   |
