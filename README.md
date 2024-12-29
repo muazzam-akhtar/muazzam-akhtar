@@ -1,18 +1,17 @@
-<h1>About Me</h1>
+### <div align="center">I'm Muazzam Akhtar, a Software Developer 👨‍💻 in 42 Abu Dhabi <img align='center' src="https://media.giphy.com/media/9g4aT4V07xIUDvcv7J/giphy.gif" width='100' /> </div>  
+  
+- 🌱 I’m currently learning web development
 
-<p>As a Unity VR Developer working in IT-based solutions for the aviation industry, I am leveraging my skills in game development to advance the field and create immersive and engaging experiences for aviation professionals and enthusiasts alike. Additionally, I incorporate Unreal Engine to enhance visual fidelity and performance, and utilize Python for robust backend integration and automation, enriching the functionality and interactivity of our VR solutions.</p></br>
+- ❓ Ask me about anything related C, C++, Unity, Unreal Engine.
+  
+- ⚡ Fun fact: I use Jelly fish for vscode theme and Jetbrains Mono for vscode editor font style. 👀  
+  
 
-- Proficient in Unity and C# / Unreal and C++ programming, with a focus on developing virtual reality experiences.
-- Skilled in creating immersive and interactive VR environments, including designing environments, user interfaces, and animations.
-- Experience in using VR hardware, such as Oculus Rift, to develop and test VR applications.
-- Knowledgeable in using 3D modeling and animation software, such as Blender, to create assets for VR environments.
-- Passionate about exploring new technologies and techniques to enhance VR experiences and staying up-to-date with the latest VR trends and developments.
-- Familiarity with game development concepts, such as game design, mechanics, and optimization.
-- Strong problem-solving and debugging skills to troubleshoot technical issues and optimize VR applications.
-- Ability to work collaboratively in a team environment, including communicating with artists, designers, and other developers.
-- Ability to create high-quality code with clean architecture, documentation, and best practices.
 
-<h1>Contact Me</h1>
+<br/>  
+
+<h1>Connect with me <img align='center' src='https://media2.giphy.com/media/HZrcDzLQuQu7OHXNhP/giphy.gif?cid=ecf05e47kl4vq8eaoentoby137ypziicnuxb6hhuw99nll7v&rid=giphy.gif' width='50'></h1>
+<div align="center">
 <p>
   <a href="https://www.linkedin.com/in/muazzamakhtar/" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"> LinkedIn
@@ -48,54 +47,19 @@
 |   03   | [**CryptRaider**](https://github.com/Genius-gambit/CryptRaider)     |               ![Unreal](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)                |  A 3D game with Unreal Game Engine.  |
 |   04   | [**Warehouse Wreckage**](https://github.com/Genius-gambit/Warehouse-Wreckage)     |               ![Unreal](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)                |  Created a small game with Unreal Engine.   |
 |   05   | [**Drift City**](https://github.com/Genius-gambit/Freelance-Projects/tree/master/Drift%20City)     |               ![Unity](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white)                |  Created a Racing Car Game with minimum requirements of giving a proper race track, implement external and interior design of the car.   |
-|   06   | [**Research Tree**](https://github.com/Genius-gambit/Freelance-Projects/tree/master/ResearchTree)     |               ![Unity](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white)                |  Create a Research Tree using Unity Game Engine to upgrade any level if it has enough resources.   |
-|   07   | [**Raycasting**](https://github.com/Genius-gambit/cub3D-Linux/tree/master/Raycasting%20Algorithm)     | ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)   | My Own Raycasting Algorithm for 3D game
-|   08   | [**Pong**](https://github.com/Genius-gambit/42-cursus/tree/master/ft_transcendence)     |  ![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TS](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)   | Created a Pong Game inspired from the original game Pong in 1972
-|   09   | [**DeepStreamer Setup**](https://github.com/Genius-gambit/DeepStreamer-Installation)     |  ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)   | DeepStreamer Setup tutorial for Object Detection Program
-|   10   | [**Cub3D**](https://github.com/Genius-gambit/42-cursus/tree/master/cub3D) |  ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)   | 3D Game in C language
-|   11   | [**So_Long**](https://github.com/Genius-gambit/42-cursus/tree/master/so_long) | ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)   | 2D Game in C language
 
 # 42 Profile
 [![makhtar's 42 stats](https://badge.mediaplus.ma/greenbinary/makhtar?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-<h1>42 Cursus Projects</h1>
+<p align="center"> <b><<<< [ Github Stats ] >>>></b> </p>
+ 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muazzam-akhtar&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muazzam-akhtar&theme=radical" />
+<div/><br>
 
-##  :notebook_with_decorative_cover:(Sept 28 2021 - Nov 23 2023)
+<div align="center">
+  <img width=100% src="https://github-profile-trophy.vercel.app/?username=MisterTooh&theme=onedark&row=2" />
+</div><br>
 
-| Circle | Project                                                      |            Language            |                            Score                             |
-| :----: | :----------------------------------------------------------- | :----------------------------: | :----------------------------------------------------------: |
-|   01   | **Libft**     |               ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)                |  ![libft grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42)   |
-|   02   | **get_next_line** |               ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)                | ![gnl grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42) |
-|   02   | **ft_printf** |               ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)                | ![ft_printf grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42) |
-|   02   | **Born2beroot** |               ![ShellScript](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)                | ![B2BR grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42) |
-|   03   | **Exam Rank 02** |               ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)                | ![rank02 grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42) |
-|   03   | **Minitalk** |               ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)                | ![minitalk grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42) |
-|   03   | **So_Long** |               ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)                | ![so_long grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42) |
-|   03   | **Push Swap** |               ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)                | ![push_swap grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42) |
-|   04   | **Philosophers** |               ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)                | ![philo grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42) |
-|   04   | **Minishell** |               ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)                | ![minishell grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42) |
-|   04   | **Exam Rank 03** |               ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)                | ![rank03 grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42) |
-|   05   | **Exam Rank 04** |               ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)                | ![rank04 grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42) |
-|   05   | **CPP Modules** |               ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)                | ![CPP grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42) |
-|   05   | **Net Practice** |               <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>                | ![Net_practice grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42) |
-|   05   | **Cub3D** |               ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)                | ![cub3D grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42) |
-|   06   | **Exam Rank 05** |               ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)                | ![rank05 grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42) |
-|   06   | **ft_irc** |               ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)                | ![ft_irc grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42) |
-|   06   | **Inception** |              ![docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white) ![php](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white) ![nginx](https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white) <br/> ![MariaDB](https://img.shields.io/badge/mariadb%20-white.svg?&style=for-the-badge&logo=mariadb&logoColor=black) ![mySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white) ![Wordpress](https://img.shields.io/badge/wordpress%20-black.svg?&style=for-the-badge&logo=wordpress)                | ![inception grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42) |
-|   07   | **Exam Rank 06** |               	![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)                | ![rank06 grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42) |
-|   07   | **ft_transcendence** |               ![TS](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white) ![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) </br> ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) ![VUE](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D) ![docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white) ![nginx](https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white) </br> ![postgre](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white) ![nestjs](https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white) ![nuxtjs](https://img.shields.io/badge/NuxtJS%20-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white) ![TypeORM](https://img.shields.io/badge/TypeORM%20-white.svg?&style=for-the-badge&logo=TypeORM&logoColor=white)               | ![ft_transcendence grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42) |
-
-<h1>Freelance Projects</h1>
-
-| S.No | Projects                                                      |            Language            |                            Description                             |
-| :----: | :----------------------------------------------------------- | :----------------------------: | :----------------------------------------------------------: |
-|   01   | [**Research Tree**](https://github.com/Genius-gambit/Freelance-Projects/tree/master/ResearchTree)     |               ![Unity](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white)                |  Create a Research Tree using Unity Game Engine to upgrade any level if it has enough resources.   |
-|   02   | [**Data Visualisation Project**](https://github.com/Genius-gambit/Freelance-Projects/tree/master/Data%20Visualisation)     |               ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)                |  Reads the document which is passed to the program and implement a data visualisation linking with every document UUID   |
-|   03   | [**Drift City**](https://github.com/Genius-gambit/Freelance-Projects/tree/master/Drift%20City)     |               ![Unity](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white)                |  Create a Racing Car Game with minimum requirements of giving a proper race track, implement external and interior design of the car.   |
-
-
-<h1>Ongoing Projects</h1>
-
-| S.No | Projects                                                      |            Language            |                            Description                             |
-| :----: | :----------------------------------------------------------- | :----------------------------: | :----------------------------------------------------------: |
-|   01   | [**ft_ls**](https://github.com/Genius-gambit/ft_ls)     |               ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)                |  Recreating the command ls with flags in terminal using C language.   |
+<br><br>
