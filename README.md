@@ -59,7 +59,7 @@
 <div/><br>
 
 <div align="center">
-  <img width=100% src="https://github-profile-trophy.vercel.app/?username=MisterTooh&theme=onedark&row=2" />
+  <img width=100% src="https://github-profile-trophy.vercel.app/?username=muazzam-akhtar&theme=onedark&row=2" />
 </div><br>
 
 <br><br>
