@@ -1,10 +1,10 @@
-### <div align="center">I'm Muazzam Akhtar, a Software Developer 👨‍💻 in 42 Abu Dhabi <img align='center' src="https://media.giphy.com/media/9g4aT4V07xIUDvcv7J/giphy.gif" width='100' /> </div>  
+### <div align="center">I'm Muazzam Akhtar, a Software Developer 👨‍💻 @ 42 Abu Dhabi <img align='center' src="https://media.giphy.com/media/9g4aT4V07xIUDvcv7J/giphy.gif" width='100' /> </div>  
   
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning web development, Dev-Ops, Game Development
 
 - ❓ Ask me about anything related C, C++, Unity, Unreal Engine.
   
-- ⚡ Fun fact: I use Jelly fish for vscode theme and Jetbrains Mono for vscode editor font style. 👀  
+- ⚡ Fun fact: I use Jelly fish for vscode theme and Jetbrains Mono for vscode editor font style. 👀
   
 
 
