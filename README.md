@@ -2,7 +2,7 @@
   
 - 🌱 I’m currently learning web development, Dev-Ops, Game Development
 
-- ❓ Ask me about anything related C, C++, Unity, Unreal Engine.
+- ❓ Ask me about anything related C, C++, Unity, Unreal Engine, Python, php.
   
 - ⚡ Fun fact: I use Jelly fish for vscode theme and Jetbrains Mono for vscode editor font style. 👀
   
