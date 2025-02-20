@@ -21,6 +21,10 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"> E-mail
   </a>
     &emsp;&emsp;
+  <a href="muazzamakhtar@outlook.com" rel="nofollow noreferrer">
+    <img src="https://img.shields.io/badge/Outlook-0069ab?style=for-the-badge&logo=outlook&logoColor=white" alt="outlook"> E-mail
+  </a>
+    &emsp;&emsp;
 </p>
 
 ## Technologies
